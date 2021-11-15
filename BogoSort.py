@@ -11,5 +11,5 @@ while True:
     random.shuffle(a)
     counter += 1
     print(a)
-
-print("試行回数" + str(counter) + "回")
+    
+print(f"試行回数{counter}回")
